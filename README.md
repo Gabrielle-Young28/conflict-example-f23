@@ -1,6 +1,8 @@
-hello conflicts, DO not fear them!!!!
 
-This is content that was defintely added through the GitHub interface. I am causing a merge conflict.
+Merge conflicts, DO fear them!!!!
+
+
+This is content that was defintely cursed. I am causing a issues. hehehehehe
 
 Thid sentefnce was added no where. 
 
@@ -8,3 +10,9 @@ This is a repo that is used, in class, to demonstrate how to solve a merge thing
 
 
 i feel like crap. 
+
+Thid sentence was addefd locally.
+
+
+I need help.
+
